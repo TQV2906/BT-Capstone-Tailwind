@@ -1,0 +1,24 @@
+.text-destructive-foreground{
+    color: #ed145b;
+}
+.text-secondary-foreground{
+    color: #1cbbb4;
+}
+.text-primary-foreground{
+    color: #f7941e;
+}
+.text-green-foreground{
+    color: #73be48;
+}
+.icon-crayon::before {
+    content: "\e909";
+}
+.icon-scissors::before {
+    content: "\e908";
+}
+.icon-baby-cutlery::before{
+    content: "\e907";
+}
+.icon-baby-body::before{
+    content: "\e90b";
+}
